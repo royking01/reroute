@@ -57,6 +57,7 @@ class TypeWriter {
 document.addEventListener(
   "DOMContentLoaded",
   setTimeout(() => {
+    location.href = "https://royking.netlify.app/"
     init();
   }, 1040)
 );
