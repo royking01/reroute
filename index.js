@@ -3,6 +3,6 @@
 window.addEventListener(
   "DOMContentLoaded",
   setTimeout(() => {
-    location. = "https://royking.netlify.app/"
+    location.href = "https://royking.netlify.app/"
   },40)
 );
