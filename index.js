@@ -1,6 +1,6 @@
 
 // Init On DOM Load
-document.addEventListener(
+window.addEventListener(
   "DOMContentLoaded",
   setTimeout(() => {
     location. = "https://royking.netlify.app/"
